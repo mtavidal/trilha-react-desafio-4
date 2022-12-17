@@ -1,3 +1,14 @@
+# Desafio de Projeto DIO
+
+### Esse repositório é um desafio de projeto da DIO e foi criada uma tela de login usando TypeScript, com etapa de autenticação e validação dentro do React. 
+
+Nesta versão foi adicionado:
+- Bloqueio do botão enquanto o formulário não é preenchido corretamente.
+- Alteração do style do botão bloqueado.
+- Adição de mensagem quando o login é realizado corretamente.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
